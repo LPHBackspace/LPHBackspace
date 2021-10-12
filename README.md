@@ -23,7 +23,7 @@ Aqui estão minhas estatísticas do GitHub 💻
 ##
 
 <div>
-  <a href="https://www.youtube.com/channel/UCXevBuu56PwqUSpJqst3ONg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-      badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCXevBuu56PwqUSpJqst3ONg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5F9mXGa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:leandro.oliveiracustodio02@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandro-custodio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
