@@ -33,6 +33,8 @@ Aqui estão minhas estatísticas do GitHub 💻
  <a href="https://www.tiktok.com/@lph_backspace?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
   
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5uH7ECEpbbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
 ##
 - 🎂 Nascido em 18/01/2002    
 - 📘 Estudante de JavaScript no Instituto PROA | 2021 - 2022
