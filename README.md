@@ -1,11 +1,6 @@
 ![MasterHead](https://github.com/LPHBackspace/imagens/blob/main/LEANDRO%20(3)%20(1).jpg?raw=true)
 <h1>Oi, tudo bem com você? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cb7lRInEa6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄
 
 Aqui estão minhas estatísticas do GitHub 💻
