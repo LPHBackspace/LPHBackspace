@@ -19,13 +19,13 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="leo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="130em" align="right" alt="Leo-Jotaro-GIF" src="https://cdn.discordapp.com/attachments/835310511540666368/891401817785766008/3cf57951b4593d7d1eb7f1fd14cc96f877a584a2_hq.gif">
+  <img height="130em" align="right" alt="Leo-Jotaro-GIF"           src="https://cdn.discordapp.com/attachments/835310511540666368/891401817785766008/3cf57951b4593d7d1eb7f1fd14cc96f877a584a2_hq.gif">
 
 ##
 
 <div>
   <a href="https://www.youtube.com/channel/UCXevBuu56PwqUSpJqst3ONg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5F9mXGa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/5F9mXGa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
  <a href = "mailto:leandro.oliveiracustodio02@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandro-custodio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/Leo_Backspace" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target=""_blank></a>
