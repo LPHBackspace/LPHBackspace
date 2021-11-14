@@ -33,6 +33,7 @@ Aqui estão minhas estatísticas do GitHub 💻
 </div>
   
 ##
+    
 - 🎂 Nascido em 18/01/2002    
 - 📘 Estudante de JavaScript no Instituto PROA | 2021 - 2022
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
