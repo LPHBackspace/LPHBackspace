@@ -22,6 +22,7 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="leo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="leo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="leo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg">
   <img height="130em" align="right" alt="Leo-Jotaro-GIF"           src="https://cdn.discordapp.com/attachments/835310511540666368/891401817785766008/3cf57951b4593d7d1eb7f1fd14cc96f877a584a2_hq.gif">
 
 ##
