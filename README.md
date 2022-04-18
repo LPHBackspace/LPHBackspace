@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/LPHBackspace/imagens/blob/main/LEANDRO%20(3)%20(1).jpg?raw=true)
+![MasterHead](https://github.com/LPHBackspace/imagens/blob/main/LEANDRO.jpg?raw=true)
 <h1>Oi, tudo bem com você? <img src="https://github.com/LPHBackspace/imagens/blob/main/LEANDRO.jpg" width="30px"></h1>
 
 Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄
