@@ -27,7 +27,7 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="leo-unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="leo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="130em" align="right" alt="Leo-Jotaro-GIF"           src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2Fgif-jjba-jotaro-kujo-966943%2F&psig=AOvVaw0NhQuT6efsz6jhfX3zyrD8&ust=1653742965100000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiwsuPe__cCFQAAAAAdAAAAABAQ">
+  <img height="130em" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
 
 ##
 
