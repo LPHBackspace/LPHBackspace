@@ -7,7 +7,9 @@ Aqui estão minhas estatísticas do GitHub 💻
 
 ##
 
+
 <div>
+  <img height="130" width="130" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
   <a href="https://github.com/LPHBackspace">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPHBackspace&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPHBackspace&layout=compact&langs_count=7&theme=dark"/>
@@ -41,7 +43,7 @@ Aqui estão minhas estatísticas do GitHub 💻
 </div>
   
 ##
-    <img height="130" width="130" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
+    
     
 - 🎂 Nascido em 18/01/2002    
 - 📘 Graduação em Engenharia de Software na INTELI  | 2022 - 2025
