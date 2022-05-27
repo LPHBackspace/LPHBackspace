@@ -27,7 +27,7 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="leo-unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="leo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="130" width="130" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
+  
 
 ##
 
@@ -41,6 +41,7 @@ Aqui estão minhas estatísticas do GitHub 💻
 </div>
   
 ##
+    <img height="130" width="130" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
     
 - 🎂 Nascido em 18/01/2002    
 - 📘 Graduação em Engenharia de Software na INTELI  | 2022 - 2025
