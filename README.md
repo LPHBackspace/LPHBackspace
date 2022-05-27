@@ -27,7 +27,7 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="leo-unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="leo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="110" width="110" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
+  <img height="60" width="60" align="right" alt="Leo-Jotaro-GIF" src="https://github.com/LPHBackspace/imagens/blob/main/jotaro.gif">
 
 ##
 
