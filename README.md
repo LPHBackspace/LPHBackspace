@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/LPHBackspace/imagens/blob/main/leandro_banner%20(1).png)
-<h1>Oi, tudo bem com você? <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"></h1>
+<h1>Oi, tudo bem com você? <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5px"></h1>
 
 Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄
 
