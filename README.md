@@ -31,7 +31,7 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="leo-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="leo-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="leo-chartjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chart/chart-original.svg">
+  <img align="center" alt="leo-chartjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg">
 
 ##
 
