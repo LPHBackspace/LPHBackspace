@@ -32,7 +32,7 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="leo-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="leo-chartjs" height="34" width="45" src="https://www.chartjs.org/img/chartjs-logo.svg">
-  <img align="center" alt="leo-c++" height="34" width="45" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F272951%2Fc&psig=AOvVaw2KSjAsWQPwkgTU6MU-BLf4&ust=1666820500687000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNio0rCs_PoCFQAAAAAdAAAAABAR">
+  <img align="center" alt="leo-c++" height="34" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
 
 
 ##
