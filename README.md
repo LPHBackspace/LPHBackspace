@@ -34,7 +34,6 @@ Aqui estão minhas estatísticas do GitHub 💻
   <img align="center" alt="leo-chartjs" height="34" width="45" src="https://www.chartjs.org/img/chartjs-logo.svg">
   <img align="center" alt="leo-c++" height="34" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
-
 ##
 
 <div>
