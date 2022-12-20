@@ -53,6 +53,7 @@ Aqui estão minhas estatísticas do GitHub 💻
 - 📘 Estudante de JavaScript no Instituto PROA | 2021
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.oliveiracustodio02@hotmail.com
+    - 👨‍💻 Link para <a href="https://lphbackspace.github.io/site_curriculo/public/index.html">curículo virtual</a>
   
 ![Snake animation](https://github.com/LPHBackspace/LPHBackspace/blob/output/github-contribution-grid-snake.svg)   
   
